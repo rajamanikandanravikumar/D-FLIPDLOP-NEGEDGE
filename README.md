@@ -58,11 +58,14 @@ else
 Q <= D;
 endmodule
 ```
+
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![image](https://github.com/user-attachments/assets/c86078fb-7acc-4fe3-ac8b-af36ac8a4ac5)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![image](https://github.com/user-attachments/assets/d5f46f30-7667-471d-9751-74d7dbbeaf83)
 
 
